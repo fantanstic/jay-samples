@@ -1,0 +1,117 @@
+2019-09-09 15:46:51.933 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 62504 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 15:46:51.935 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 15:46:52.756 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 15:46:52.769 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 15:46:52.777 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 15:46:52.777 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 15:46:52.845 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 15:46:52.846 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 833 ms
+2019-09-09 15:46:53.031 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 15:46:53.167 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 15:46:53.199 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 15:46:53.202 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.769 seconds (JVM running for 2.408)
+2019-09-09 15:47:00.262 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 15:47:00.263 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 15:47:00.269 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-09-09 15:47:00.285 INFO  [http-nio-8999-exec-1] com.jay.logback.TestController - &&&&&&&&&&test info
+2019-09-09 16:49:19.090 INFO  [Thread-6] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:55:56.057 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 68765 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 16:55:56.059 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 16:55:57.002 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 16:55:57.014 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:55:57.025 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 16:55:57.025 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 16:55:57.104 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 16:55:57.105 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1014 ms
+2019-09-09 16:55:57.301 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:55:57.426 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:55:57.457 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 16:55:57.460 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.852 seconds (JVM running for 2.345)
+2019-09-09 16:56:02.791 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 16:56:02.792 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 16:56:02.798 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-09-09 16:56:41.673 INFO  [Thread-3] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:56:45.191 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 68776 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 16:56:45.194 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 16:56:45.997 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 16:56:46.008 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:56:46.017 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 16:56:46.017 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 16:56:46.089 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 16:56:46.089 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 854 ms
+2019-09-09 16:56:46.256 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:56:46.385 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:56:46.418 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 16:56:46.422 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.646 seconds (JVM running for 2.109)
+2019-09-09 16:56:50.840 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 16:56:50.840 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 16:56:50.845 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-09-09 16:57:31.326 INFO  [Thread-5] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:57:35.252 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 68787 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 16:57:35.254 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 16:57:36.049 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 16:57:36.060 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:57:36.068 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 16:57:36.068 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 16:57:36.131 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 16:57:36.131 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 801 ms
+2019-09-09 16:57:36.309 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:57:36.428 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:57:36.461 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 16:57:36.464 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.646 seconds (JVM running for 2.244)
+2019-09-09 16:57:40.140 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 16:57:40.140 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 16:57:40.145 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-09-09 16:57:40.163 INFO  [http-nio-8999-exec-1] com.jay.logback.TestController - &&&&&&&&&&test info
+2019-09-09 16:58:06.790 INFO  [Thread-6] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:58:10.594 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 68797 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 16:58:10.597 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 16:58:11.418 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 16:58:11.429 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:58:11.437 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 16:58:11.438 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 16:58:11.504 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 16:58:11.505 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 824 ms
+2019-09-09 16:58:11.683 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 16:58:11.818 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 16:58:11.850 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 16:58:11.853 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.706 seconds (JVM running for 2.205)
+2019-09-09 16:58:14.411 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 16:58:14.411 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 16:58:14.416 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-09-09 16:58:14.432 INFO  [http-nio-8999-exec-1] com.jay.logback.TestController - &&&&&&&&&&test info
+2019-09-09 17:01:25.208 INFO  [Thread-6] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 17:01:29.627 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 69950 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 17:01:29.630 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 17:01:30.383 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 17:01:30.394 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 17:01:30.402 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 17:01:30.403 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 17:01:30.468 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 17:01:30.468 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 763 ms
+2019-09-09 17:01:30.649 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 17:01:30.769 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 17:01:30.800 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 17:01:30.803 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.642 seconds (JVM running for 2.271)
+2019-09-09 17:01:33.460 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 17:01:33.460 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 17:01:33.465 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-09-09 17:01:33.481 INFO  [http-nio-8999-exec-1] com.jay.logback.TestController - &&&&&&&&&&test info
+2019-09-09 17:02:57.185 INFO  [Thread-6] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-09 17:03:00.877 INFO  [main] com.jay.logback.LogbackApplication - Starting LogbackApplication on AppledeMacBook-Pro.local with PID 69965 (/Users/apple/www/java/jay_samples/logback/target/classes started by apple in /Users/apple/www/java/jay_samples/logback)
+2019-09-09 17:03:00.879 INFO  [main] com.jay.logback.LogbackApplication - The following profiles are active: dev
+2019-09-09 17:03:01.672 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8999 (http)
+2019-09-09 17:03:01.684 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8999"]
+2019-09-09 17:03:01.693 INFO  [main] org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-09-09 17:03:01.694 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-09 17:03:01.799 INFO  [main] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-09-09 17:03:01.800 INFO  [main] org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 851 ms
+2019-09-09 17:03:02.025 INFO  [main] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-09 17:03:02.148 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8999"]
+2019-09-09 17:03:02.185 INFO  [main] o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8999 (http) with context path ''
+2019-09-09 17:03:02.189 INFO  [main] com.jay.logback.LogbackApplication - Started LogbackApplication in 1.745 seconds (JVM running for 2.223)
+2019-09-09 17:03:04.913 INFO  [http-nio-8999-exec-1] o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-09 17:03:04.913 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-09-09 17:03:04.918 INFO  [http-nio-8999-exec-1] org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-09-09 17:03:04.935 INFO  [http-nio-8999-exec-1] com.jay.logback.TestController - &&&&&&&&&&test info
+2019-09-09 17:38:08.139 INFO  [Thread-6] o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

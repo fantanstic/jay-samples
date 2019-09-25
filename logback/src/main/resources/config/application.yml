@@ -1,0 +1,11 @@
+server:
+  port: 8999
+
+spring:
+  profiles:
+    active: dev
+
+logging:
+  config: classpath:config/logback-spring.xml
+  level:
+    com.jay.logback: logback=debug:debug

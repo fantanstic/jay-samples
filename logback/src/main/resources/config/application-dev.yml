@@ -1,0 +1,7 @@
+logging:
+  level:
+    com.jay.logback: debug
+spring:
+  log:
+    file: ./logs/logback
+  file-url: ./logs/logback

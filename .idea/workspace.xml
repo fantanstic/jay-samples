@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0c63c01-4cec-4c89-acb0-c93ccad34e1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/dictionaries/apple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_netty_netty_buffer_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_netty_netty_codec_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_netty_netty_common_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_netty_netty_handler_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_netty_netty_resolver_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_netty_netty_transport_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/oauth2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/javaboy-video-samples/第 10 章 Spring Boot 安全管理/oauth2/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>”</find>
+      <find>“</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/simple-example" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pices_codes/test_some_code.php" />
+        <option value="$PROJECT_DIR$/pices_codes/file.txt" />
+        <option value="$PROJECT_DIR$/pices_codes/test_some_code.java" />
+        <option value="$PROJECT_DIR$/pices_codes/Dog.java.go" />
+        <option value="$PROJECT_DIR$/pices_codes/Dog.java" />
+        <option value="$PROJECT_DIR$/pices_codes/Echo.java" />
+        <option value="$PROJECT_DIR$/pices_codes/MemoryLeakDemo.java" />
+        <option value="$PROJECT_DIR$/pices_codes/Stack.java" />
+        <option value="$PROJECT_DIR$/pices_codes/stackAndHeap/Stack.java" />
+        <option value="$PROJECT_DIR$/pices_codes/stackAndHeap/Heap.java" />
+        <option value="$PROJECT_DIR$/pices_codes/array/Dog.java" />
+        <option value="$PROJECT_DIR$/pices_codes/array/test.java" />
+        <option value="$PROJECT_DIR$/pices-codes/games/GameHelper.java" />
+        <option value="$PROJECT_DIR$/pices-codes/games/SimpleDotCom.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jay-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jay-samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jay-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jay-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-oauth2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568717623993" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pices_codes/stackAndHeap" />
+      <recent name="$PROJECT_DIR$/pices_codes/practice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57501" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c63c01-4cec-4c89-acb0-c93ccad34e1a" name="Default Changelist" comment="" />
+      <created>1567997574043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567997574043</updated>
+      <workItem from="1567997575853" duration="2695000" />
+      <workItem from="1568081054423" duration="11633000" />
+      <workItem from="1568269332381" duration="277000" />
+      <workItem from="1568269660645" duration="598000" />
+      <workItem from="1568598902396" duration="598000" />
+      <workItem from="1568684584950" duration="648000" />
+      <workItem from="1568687939749" duration="3081000" />
+      <workItem from="1568773152608" duration="56000" />
+      <workItem from="1568773246234" duration="598000" />
+      <workItem from="1568864204966" duration="599000" />
+      <workItem from="1568886714716" duration="598000" />
+      <workItem from="1569204511124" duration="1150000" />
+      <workItem from="1569377894830" duration="326000" />
+      <workItem from="1569378280509" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22930000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="826" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2546495" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32911393" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logback/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pices_codes/practice/test_some_code.class" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/practice/test_some_code.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/practice/file.txt" />
+    <entry file="file://$PROJECT_DIR$/springboot-session-share/src/main/java/com/jay/springbootsessionshare/SpringbootSessionShareApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pices_codes/dog.php" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/practice/Echo.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/stackAndHeap/Heap.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/stackAndHeap/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/practice/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/practice/Dog.class" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/array/Dog.class" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/test.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/array/Dog.java" />
+    <entry file="file://$PROJECT_DIR$/pices_codes/array/test.java" />
+    <entry file="file://$PROJECT_DIR$/pices-codes/games/SimpleDotCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pices-codes/games/GameHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jay-samples</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
